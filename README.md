@@ -7,11 +7,17 @@ Send E-Mails using Python
 >> python emailsender.py
 ```
 
+## Supported providers
+
+- Gmail
+- Yahoo
+- GMX
+- Your own SMTP Server
 
 License
 ----
 MIT License
-Copyright (c) 2018 Simon Koeck
+Copyright (c) 2018 Simon Köck
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
